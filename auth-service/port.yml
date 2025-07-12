@@ -1,0 +1,7 @@
+# Port.yml manifest for the Authentication Service
+identifier: auth-service
+title: Authentication Service
+team: Team Alpha
+properties:
+  language: go
+  docs_url: https://github.com/YOUR_USERNAME/my-product-assignment-services/blob/main/auth-service/README.md
